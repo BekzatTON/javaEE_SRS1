@@ -59,9 +59,9 @@ public class MainContorller
     {
         Client client = new Client(
                 clientId,
-                "Bauyrzhan",
-                "mendeshev.bauyrzhan@mail.ru",
-                "+7 (777)792-7627"
+                "Bekzat",
+                "arzibekov.bekzat@mail.ru",
+                "+7 (771)791-1111"
         );
 
         String jsontext = null;
@@ -89,8 +89,8 @@ public class MainContorller
     {
         Client client = new Client(
                 clientId,
-                "Bauyrzhan",
-                "mendeshev.bauyrzhan@mail.ru",
+                "Bekzat",
+                "bekzat@mail.ru",
                 "+7 (777)792-7627"
         );
 
